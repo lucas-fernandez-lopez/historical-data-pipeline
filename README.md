@@ -12,9 +12,9 @@ This repository contains a design-first proposal for a historical crypto data pi
 - Live scheduling
 
 ## Structure
-docs/        # Canonical schema definitions and design docs
-ingestion/   # Future Python ingestion pipelines (not implemented)
-analytics/   # Future factor models and analytics (not implemented)
+- docs/        # Canonical schema definitions and design docs
+- ingestion/   # Future Python ingestion pipelines (not implemented)
+- analytics/   # Future factor models and analytics (not implemented)
 
 ## Status
 This repository is a **draft proposal** intended to support schema design and alignment prior to implementation.
