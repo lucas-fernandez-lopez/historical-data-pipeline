@@ -46,10 +46,8 @@ Canonical daily OHLCV price data aligned across all sources.
 |------------|--------|-------------|
 | asset_id   | text   | Canonical asset identifier |
 | day        | date   | Trading day (UTC) |
-| open       | numeric | Opening price |
 | high       | numeric | Highest price |
 | low        | numeric | Lowest price |
-| close      | numeric | Closing price |
 | volume     | numeric | Trading volume |
 | source     | text   | Data source identifier |
 | ingested_at | timestamptz | Ingestion timestamp |
